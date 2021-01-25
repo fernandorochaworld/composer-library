@@ -1,0 +1,13 @@
+{
+    "name": "inteligenti/random-number",
+    "description": "This library generate a random number.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Joao Fernando Rocha",
+            "email": "fernandorochaworld@gmail.com"
+        }
+    ],
+    "require": {}
+}
