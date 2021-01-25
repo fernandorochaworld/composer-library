@@ -9,5 +9,10 @@
             "email": "fernandorochaworld@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "RandomNumber\\": "src/"
+        }
+    },
     "require": {}
 }
